@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\bin\Debug\net6.0\ExceptionFilters.exe
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\bin\Debug\net6.0\ExceptionFilters.deps.json
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\bin\Debug\net6.0\ExceptionFilters.runtimeconfig.json
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\bin\Debug\net6.0\ExceptionFilters.dll
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\bin\Debug\net6.0\ExceptionFilters.pdb
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.dll
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\refint\ExceptionFilters.dll
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.pdb
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ExceptionFilters.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Learn C Sharp\ExceptionFilters\obj\Debug\net6.0\ref\ExceptionFilters.dll
