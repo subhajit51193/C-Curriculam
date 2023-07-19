@@ -1,6 +1,10 @@
 ﻿using System;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.Security.Cryptography.X509Certificates;
+using System.Transactions;
 
-namespace ExceptionFilters
+namespace ExceptionFilter
 {
 
     public class InsufficientFundsException : Exception
@@ -47,7 +51,7 @@ namespace ExceptionFilters
             {
                 withdraw(app.AccountNumber, app.RequestedAmount, app.AvailableAmount);
             }
-            catch (InsufficientFundsException ex)
+            catch (Exception ex) when(ex.GetType().ToString() == "InsufficientFundsException")
             {
                 Console.WriteLine("Sorry you have insufficient funds");
                 Console.WriteLine(ex.Message);
